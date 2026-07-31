@@ -6,6 +6,15 @@ This document brings together practical dialogues based on the **Expression Mapp
 # Trip over (Idea: To stumble on something / make a mistake)
 ---
 
+slip: You lose balance on a wet surface.
+
+trip: You hit your foot on something and lose balance
+
+stumble: You lose balance while walking 
+
+tumble: You fall and roll over
+
+
 ## 1. Expression: `Trip over` (Stumble / Mess up)
 
 ### Chain 1A: `Trip over` → `Limping`
@@ -41,3 +50,5 @@ This document brings together practical dialogues based on the **Expression Mapp
   — Thanks! Every time I walk past this old trail, I get an itch to go hiking in the hills.
 
 ---
+
+https://www.youtube.com/shorts/Mv1hQHfu2uM?feature=share

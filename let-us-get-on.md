@@ -57,6 +57,14 @@ This document brings together practical dialogues based on the **Expression Mapp
 
 ---
 
+### The phrasal verb `Beat off` means to force someone or something to go away or to fight off an attack, similar to pushing back or overcoming an opponent.
+
+Common Meanings and Uses
+
+* Fight off an attack: To successfully defend against an attacker, enemy, or rival.
+* Push back competition: To hold off or defeat competitors in a game, business, or race.
+* Overcome difficulty: To successfully deal with a hard problem or challenge.Examples in Sentences
+
 ### Chain 6A: `I’m off to` → `Let’s get on`
 > **Phrase:** `I’m off to` → `Let’s get on` → `Beat off`  
 > **Idea:** Leaving for somewhere, getting to work, and going for it / tackling everything.

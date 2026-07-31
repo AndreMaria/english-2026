@@ -6,8 +6,16 @@ This document brings together practical dialogues based on the **Expression Mapp
 # Never mind! (Idea: Never mind! / Forget it!)
 ---
 
+### The phrasal verb `Beat off` means to force someone or something to go away or to fight off an attack, similar to pushing back or overcoming an opponent.
 
-### Chain 7A: `Beat off` → `Never mind!`
+Common Meanings and Uses
+
+* Fight off an attack: To successfully defend against an attacker, enemy, or rival.
+* Push back competition: To hold off or defeat competitors in a game, business, or race.
+* Overcome difficulty: To successfully deal with a hard problem or challenge.Examples in Sentences
+
+
+## Chain 7A: `Beat off` → `Never mind!`
 > **Phrase:** `Beat off` → `Never mind!` → `Take off`  
 > **Idea:** Try to tackle/fix something, realize it doesn't work, and forget about it to leave.
 
@@ -25,7 +33,7 @@ This document brings together practical dialogues based on the **Expression Mapp
 
 ---
 
-### Chain 7B: `Never mind!` → `Look it up`
+## Chain 7B: `Never mind!` → `Look it up`
 > **Idea:** Forget about it for now, search/look it up later.
 
 * **Option 1: Discussion about local trivia**
@@ -42,7 +50,7 @@ This document brings together practical dialogues based on the **Expression Mapp
 
 ---
 
-### Chain 7C: `Never mind!` → `Take off`
+## Chain 7C: `Never mind!` → `Take off`
 > **Phrase:** `Never mind!` → `Take off` → `I’m off to`  
 > **Idea:** Forget about it, leave quickly, and say where you're heading.
 
@@ -60,9 +68,7 @@ This document brings together practical dialogues based on the **Expression Mapp
 
 ---
 
-## 9. Expression: `Never mind!` (Forget it! / Never mind!)
-
-### Chain 9A: `Never mind!` → `Take off` → `I’m off to`
+## Chain 9A: `Never mind!` → `Take off` → `I’m off to`
 > **Phrase:** `Never mind!` → `Take off` → `I’m off to`  
 > **Idea:** Forget about it, leave quickly, and head out somewhere.
 

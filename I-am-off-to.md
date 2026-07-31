@@ -5,8 +5,10 @@ This document brings together practical dialogues based on the **Expression Mapp
 ---
 # I’m off to (Idea: Leaving for / Heading out to)
 
+### "I'm off to" means you are leaving to go somewhere, while "give up" means you stop trying or quit a habit.
+
 ---
-### Chain 1F: `Itch` → `I’m off to`
+## Chain 1F: `Itch` → `I’m off to`
 > **Idea:** Urge to do something and leaving right away to get it done.
 
 * **Option 1: Craving iced coffee**
@@ -23,7 +25,7 @@ This document brings together practical dialogues based on the **Expression Mapp
 
 ---
 
-### Chain 3C: `Take off` → `I’m off to`
+## Chain 3C: `Take off` → `I’m off to`
 > **Idea:** Leave quickly and announce the destination.
 
 * **Option 1: Heading to the gym**
@@ -40,7 +42,7 @@ This document brings together practical dialogues based on the **Expression Mapp
 
 ---
 
-### Chain 6A: `I’m off to` → `Let’s get on`
+## Chain 6A: `I’m off to` → `Let’s get on`
 > **Phrase:** `I’m off to` → `Let’s get on` → `Beat off`  
 > **Idea:** Leaving for somewhere, getting to work, and going for it / tackling everything.
 
@@ -58,7 +60,16 @@ This document brings together practical dialogues based on the **Expression Mapp
 
 ---
 
-### Chain 8A: `Take off` → `I’m off to` → `Beat off`
+### The phrasal verb `Beat off` means to force someone or something to go away or to fight off an attack, similar to pushing back or overcoming an opponent.
+
+Common Meanings and Uses
+
+* Fight off an attack: To successfully defend against an attacker, enemy, or rival.
+* Push back competition: To hold off or defeat competitors in a game, business, or race.
+* Overcome difficulty: To successfully deal with a hard problem or challenge.Examples in Sentences
+
+
+## Chain 8A: `Take off` → `I’m off to` → `Beat off`
 > **Phrase:** `Take off` → `I’m off to` → `Beat off`  
 > **Idea:** Leave quickly and head out to overcome/tackle the task.
 
@@ -76,7 +87,7 @@ This document brings together practical dialogues based on the **Expression Mapp
 
 ---
 
-### Chain 9A: `Never mind!` → `Take off` → `I’m off to`
+## Chain 9A: `Never mind!` → `Take off` → `I’m off to`
 > **Phrase:** `Never mind!` → `Take off` → `I’m off to`  
 > **Idea:** Forget about it, leave quickly, and head out somewhere.
 
