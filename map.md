@@ -1,40 +1,4 @@
-``` mermaid
-mindmap
-  root((Phrasal Verbs & Expressions))
-    Trip over
-      Limping
-        Run out of time
-        Slow down
-        Sort of
-      Itch
-        I'm off to
-        Slow down
-    Kickoff
-      Slow down
-        Kind of just did
-        Sort of
-      Let's get on
-        Run out of time
-        Sort out
-    Run out of time
-      Take off
-        Kickoff
-        I'm off to
-    Sort of / Sort out
-      Sort out
-        Itch
-        Look it up
-          Kind of just did
-    I'm off to / Let's get on
-      Let's get on
-        Beat off
-        Run out of time
-        Sort out
-    Beat off / Never mind!
-      Never mind!
-        Look it up
-        Take off
-```
+
 ```mermaid
 flowchart LR
     %% Nó Central
@@ -106,11 +70,11 @@ flowchart LR
     %% Links para arquivos na mesma pasta
     click Trip-over "https://github.com/AndreMaria/english-2026/blob/main/trip-over.md" "Abrir explicações de Trip over" _self
     click Kickoff "https://github.com/AndreMaria/english-2026/blob/main/kick-off.md" "Abrir explicações de Kickoff" _self
-    click Run-out-of-time "https://github.com/AndreMaria/english-2026/blob/main/limping.md" "Abrir explicações de Limping" _self
+    click Limping "https://github.com/AndreMaria/english-2026/blob/main/limping.md" "Abrir explicações de Limping" _self
     click Run-out-of-time "https://github.com/AndreMaria/english-2026/blob/main/run-out-time.md" "Abrir explicações de Run out of time" _self
     click Run-out-of-time "https://github.com/AndreMaria/english-2026/blob/main/take-off.md" "Abrir explicações de Take off" _self
     click Run-out-of-time "https://github.com/AndreMaria/english-2026/blob/main/slow-down.md" "Abrir explicações de Slow down" _self
-    click Run-out-of-time "https://github.com/AndreMaria/english-2026/blob/main/kind-of-just-did.md" "Abrir explicações de Kind of just did" _self
+    click Kind-of-just-did "https://github.com/AndreMaria/english-2026/blob/main/kind-of-just-did.md" "Abrir explicações de Kind of just did" _self
     click Run-out-of-time "https://github.com/AndreMaria/english-2026/blob/main/sort-of.md" "Abrir explicações de Sort of" _self
     click Run-out-of-time "https://github.com/AndreMaria/english-2026/blob/main/sort-out.md" "Abrir explicações de Sort out" _self
     click Run-out-of-time "https://github.com/AndreMaria/english-2026/blob/main/itch.md" "Abrir explicações de Itch" _self
