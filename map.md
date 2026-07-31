@@ -35,6 +35,80 @@ mindmap
         Look it up
         Take off
 ```
+```mermaid
+flowchart LR
+    %% Nó Central
+    root((Phrasal Verbs & Expressions))
+
+    %% Nível 1
+    Trip-over[Trip over]
+    Kickoff[Kickoff]
+    Run-out-of-time[Run out of time]
+    Sort-of-Sort-out[Sort of / Sort out]
+    Im-off-to-Lets-get-on[I'm off to / Let's get on]
+    Beat-off-Never-mind[Beat off / Never mind!]
+
+    %% Nível 2
+    Limping[Limping]
+    Itch[Itch]
+    Slow-down[Slow down]
+    Lets-get-on[Let's get on]
+    Take-off[Take off]
+    Sort-out[Sort out]
+    Never-mind[Never mind!]
+
+    %% Nível 3
+    Kind-of-just-did[Kind of just did]
+    Sort-of[Sort of]
+    Beat-off[Beat off]
+    Look-it-up[Look it up]
+
+    %% Conexões do Mapa
+    root --> Trip-over
+    Trip-over --> Limping
+    Limping --> Run-out-of-time
+    Limping --> Slow-down
+    Limping --> Sort-of
+    Trip-over --> Itch
+    Itch --> Im-off-to[I'm off to]
+    Itch --> Slow-down
+
+    root --> Kickoff
+    Kickoff --> Slow-down
+    Slow-down --> Kind-of-just-did
+    Slow-down --> Sort-of
+    Kickoff --> Lets-get-on
+    Lets-get-on --> Run-out-of-time
+    Lets-get-on --> Sort-out
+
+    root --> Run-out-of-time
+    Run-out-of-time --> Take-off
+    Take-off --> Kickoff
+    Take-off --> Im-off-to
+
+    root --> Sort-of-Sort-out
+    Sort-of-Sort-out --> Sort-out
+    Sort-out --> Itch
+    Sort-out --> Look-it-up
+    Look-it-up --> Kind-of-just-did
+
+    root --> Im-off-to-Lets-get-on
+    Im-off-to-Lets-get-on --> Lets-get-on
+    Lets-get-on --> Beat-off
+    Lets-get-on --> Run-out-of-time
+    Lets-get-on --> Sort-out
+
+    root --> Beat-off-Never-mind
+    Beat-off-Never-mind --> Never-mind
+    Never-mind --> Look-it-up
+    Never-mind --> Take-off
+
+    %% Links para arquivos na mesma pasta
+    click Trip-over "trip-over.md" "Abrir explicações de Trip over" _self
+    click Kickoff "kickoff.md" "Abrir explicações de Kickoff" _self
+    click Run-out-of-time "run-out-of-time.md" "Abrir explicações de Run out of time" _self
+```
+
 
 
 # Expression Mapping & Associative Chains
