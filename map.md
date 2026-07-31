@@ -72,16 +72,16 @@ flowchart LR
     click Kickoff "https://github.com/AndreMaria/english-2026/blob/main/kick-off.md" "Abrir explicações de Kickoff" _self
     click Limping "https://github.com/AndreMaria/english-2026/blob/main/limping.md" "Abrir explicações de Limping" _self
     click Run-out-of-time "https://github.com/AndreMaria/english-2026/blob/main/run-out-time.md" "Abrir explicações de Run out of time" _self
-    click Run-out-of-time "https://github.com/AndreMaria/english-2026/blob/main/take-off.md" "Abrir explicações de Take off" _self
-    click Run-out-of-time "https://github.com/AndreMaria/english-2026/blob/main/slow-down.md" "Abrir explicações de Slow down" _self
+    click Take-off "https://github.com/AndreMaria/english-2026/blob/main/take-off.md" "Abrir explicações de Take off" _self
+    click Slow-down "https://github.com/AndreMaria/english-2026/blob/main/slow-down.md" "Abrir explicações de Slow down" _self
     click Kind-of-just-did "https://github.com/AndreMaria/english-2026/blob/main/kind-of-just-did.md" "Abrir explicações de Kind of just did" _self
-    click Run-out-of-time "https://github.com/AndreMaria/english-2026/blob/main/sort-of.md" "Abrir explicações de Sort of" _self
-    click Run-out-of-time "https://github.com/AndreMaria/english-2026/blob/main/sort-out.md" "Abrir explicações de Sort out" _self
-    click Run-out-of-time "https://github.com/AndreMaria/english-2026/blob/main/itch.md" "Abrir explicações de Itch" _self
-    click Run-out-of-time "https://github.com/AndreMaria/english-2026/blob/main/i-am-off-to.md" "Abrir explicações de I’m off to" _self
-    click Run-out-of-time "https://github.com/AndreMaria/english-2026/blob/main/let-us-get-on.md" "Abrir explicações de let’s get on" _self
-    click Run-out-of-time "https://github.com/AndreMaria/english-2026/blob/main/never-mind.md" "Abrir explicações de Never mind" _self
-    click Run-out-of-time "https://github.com/AndreMaria/english-2026/blob/main/look-it-up.md" "Abrir explicações de look it up" _self
+    click Sort-of "https://github.com/AndreMaria/english-2026/blob/main/sort-of.md" "Abrir explicações de Sort of" _self
+    click Sort-out "https://github.com/AndreMaria/english-2026/blob/main/sort-out.md" "Abrir explicações de Sort out" _self
+    click Itch "https://github.com/AndreMaria/english-2026/blob/main/itch.md" "Abrir explicações de Itch" _self
+    click Im-off-to "https://github.com/AndreMaria/english-2026/blob/main/i-am-off-to.md" "Abrir explicações de I’m off to" _self
+    click Lets-get-on "https://github.com/AndreMaria/english-2026/blob/main/let-us-get-on.md" "Abrir explicações de let’s get on" _self
+    click Never-mind "https://github.com/AndreMaria/english-2026/blob/main/never-mind.md" "Abrir explicações de Never mind" _self
+    click Look-it-up "https://github.com/AndreMaria/english-2026/blob/main/look-it-up.md" "Abrir explicações de look it up" _self
 ```
 
 
