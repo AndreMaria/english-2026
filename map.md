@@ -1,3 +1,5 @@
+# Expression Mapping & Associative Chains
+---
 
 ```mermaid
 flowchart LR
@@ -86,7 +88,7 @@ flowchart LR
 
 
 
-# Expression Mapping & Associative Chains
+
 
 ---
 ## Trip over (Idea: To stumble on something / make a mistake)
