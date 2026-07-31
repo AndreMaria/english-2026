@@ -89,7 +89,7 @@ flowchart LR
 # Expression Mapping & Associative Chains
 
 ---
-# Trip over (Idea: To stumble on something / make a mistake)
+## Trip over (Idea: To stumble on something / make a mistake)
 
 
 * slip: You lose balance on a wet surface.
@@ -99,26 +99,25 @@ flowchart LR
 * stumble: You lose balance while walking 
 
 * tumble: You fall and roll over
----
+
 
 ## Kickoff (Idea: Kick off / Start things off)
 
 ## Run out of time (Idea: End up running out of time)
 
----
+
 ## Sort of 
 
 "Sort of" means somewhat, approximately, or a little bit. People use it when they want to describe something in a way that is not exact or 100% precise
 
----
+
 ## Sort out (Idea: Resolve / Organize)
 
----
+
 ## I’m off to (Idea: Leaving for / Heading out to)
 
 "I'm off to" means you are leaving to go somewhere, while "give up" means you stop trying or quit a habit.
 
----
 ## Beat off (Idea: Push back / Overcome / Go for it)
 
 The phrasal verb `Beat off` means to force someone or something to go away or to fight off an attack, similar to pushing back or overcoming an opponent.
@@ -129,7 +128,7 @@ Common Meanings and Uses
 * Push back competition: To hold off or defeat competitors in a game, business, or race.
 * Overcome difficulty: To successfully deal with a hard problem or challenge.Examples in Sentences
 
----
+
 
 ## Take off (Idea: Leave quickly / Take off)
 
