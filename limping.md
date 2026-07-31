@@ -6,6 +6,14 @@ This document brings together practical dialogues based on the **Expression Mapp
 # Limping (Idea: Limping)
 ---
 
+``` mermaid
+mindmap
+  root((Limping))
+        Run out of time
+        Slow down
+        Sort of
+```
+
 Trip over (Idea: To stumble on something / make a mistake)
 
 * slip: You lose balance on a wet surface.

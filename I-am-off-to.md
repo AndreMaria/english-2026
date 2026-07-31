@@ -7,6 +7,15 @@ This document brings together practical dialogues based on the **Expression Mapp
 
 ### "I'm off to" means you are leaving to go somewhere, while "give up" means you stop trying or quit a habit.
 
+
+``` mermaid
+mindmap
+  root((I'm off to))
+      Let's get on
+        Beat off
+        Run out of time
+        Sort out
+```
 ---
 ## Chain 1F: `Itch` → `I’m off to`
 > **Idea:** Urge to do something and leaving right away to get it done.

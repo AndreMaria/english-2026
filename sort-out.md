@@ -6,6 +6,14 @@ This document brings together practical dialogues based on the **Expression Mapp
 # Sort out (Idea: Resolve / Organize)
 ---
 
+``` mermaid
+mindmap
+  root((Sort out))
+        Itch
+        Look it up
+          Kind of just did
+```
+
 ### Chain 2F: `Let’s get on` → `Sort out`
 > **Idea:** Start working and resolve/organize things.
 

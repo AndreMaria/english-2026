@@ -6,6 +6,17 @@ This document brings together practical dialogues based on the **Expression Mapp
 # Kickoff (Idea: Kick off / Start things off)
 ---
 
+``` mermaid
+mindmap
+  root((Kickoff))
+      Slow down
+        Kind of just did
+        Sort of
+      Let's get on
+        Run out of time
+        Sort out
+```
+
 ## 2. Expression: `Kickoff` (Start off / Begin)
 
 ### Chain 2A: `Kickoff` → `Slow down`

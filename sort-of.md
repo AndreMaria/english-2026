@@ -8,6 +8,15 @@ This document brings together practical dialogues based on the **Expression Mapp
 
 "Sort of" means somewhat, approximately, or a little bit. People use it when they want to describe something in a way that is not exact or 100% precise
 
+``` mermaid
+mindmap
+  root((Sort of))
+      Sort out
+        Itch
+        Look it up
+          Kind of just did
+```
+
 ### Chain 2C: `Slow down` → `Sort of`
 > **Idea:** Slow down a little / "Sort of".
 
