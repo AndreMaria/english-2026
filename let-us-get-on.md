@@ -6,6 +6,15 @@ This document brings together practical dialogues based on the **Expression Mapp
 # Let’s get on (Idea: Get on with it / Get to work)
 ---
 
+``` mermaid
+mindmap
+  root((Let’s get on))
+      Kickoff
+      Run out of time
+      Sort out
+      Beat off
+```
+
 ### Chain 2D: `Kickoff` → `Let’s get on`
 > **Phrase:** `Kickoff` → `Let’s get on` → `Run out of time`  
 > **Idea:** Kick off, get to work, and end up running out of time.

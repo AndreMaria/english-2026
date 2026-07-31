@@ -11,10 +11,9 @@ This document brings together practical dialogues based on the **Expression Mapp
 ``` mermaid
 mindmap
   root((Sort of))
+      Slow down
       Sort out
-        Itch
-        Look it up
-          Kind of just did
+      Limping
 ```
 
 ### Chain 2C: `Slow down` → `Sort of`

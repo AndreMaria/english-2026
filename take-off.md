@@ -6,6 +6,16 @@ This document brings together practical dialogues based on the **Expression Mapp
 # Take off (Idea: Leave quickly / Take off)
 ---
 
+``` mermaid
+mindmap
+  root((Take off))
+    Run out of time
+    Kickoff
+    I'm off to
+    Beat off
+    Never mind!
+```
+
 ### Chain 3A: `Run out of time` → `Take off`
 > **Phrase:** `Run out of time` → `Take off` → `Kickoff`  
 > **Idea:** End up running out of time, leave quickly, and kick off another commitment.

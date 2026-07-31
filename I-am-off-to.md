@@ -11,10 +11,21 @@ This document brings together practical dialogues based on the **Expression Mapp
 ``` mermaid
 mindmap
   root((I'm off to))
+      Itch
+      Take off
+      Never mind!
       Let's get on
         Beat off
         Run out of time
         Sort out
+
+    %% Links para arquivos na mesma pasta
+    click Run-out-of-time "https://github.com/AndreMaria/english-2026/blob/main/run-out-time.md" "Abrir explicações de Run out of time" _self
+    click Take-off "https://github.com/AndreMaria/english-2026/blob/main/take-off.md" "Abrir explicações de Take off" _self
+    click Sort-out "https://github.com/AndreMaria/english-2026/blob/main/sort-out.md" "Abrir explicações de Sort out" _self
+    click Itch "https://github.com/AndreMaria/english-2026/blob/main/itch.md" "Abrir explicações de Itch" _self
+    click Lets-get-on "https://github.com/AndreMaria/english-2026/blob/main/let-us-get-on.md" "Abrir explicações de let’s get on" _self
+    click Never-mind "https://github.com/AndreMaria/english-2026/blob/main/never-mind.md" "Abrir explicações de Never mind" _self
 ```
 ---
 ## Chain 1F: `Itch` → `I’m off to`

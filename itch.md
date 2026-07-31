@@ -5,6 +5,17 @@ This document brings together practical dialogues based on the **Expression Mapp
 ---
 # Itch (Idea: Itch / Eager to do something)
 ---
+``` mermaid
+mindmap
+  root((Itch))
+      Sort out
+      Trip over
+      Take off
+      I’m off to
+      Slow down
+      Sort out
+```
+
 ### Chain 4B: `Sort out` → `Itch`
 > **Idea:** Resolve pending tasks and feel like doing something else.
 

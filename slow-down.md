@@ -6,6 +6,17 @@ This document brings together practical dialogues based on the **Expression Mapp
 # Slow down (Idea: Slow down / Reduce speed)
 ---
 
+``` mermaid
+mindmap
+  root((Slow down))
+      Limping
+      Itch
+      Kickoff
+      Kind of just did
+      Sort of
+```
+
+
 ### Chain 1C: `Limping` → `Slow down`
 > **Idea:** Limping and needing to slow down the pace.
 

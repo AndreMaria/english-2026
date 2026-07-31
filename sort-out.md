@@ -9,6 +9,8 @@ This document brings together practical dialogues based on the **Expression Mapp
 ``` mermaid
 mindmap
   root((Sort out))
+        Let’s get on
+        Sort of
         Itch
         Look it up
           Kind of just did

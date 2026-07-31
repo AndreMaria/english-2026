@@ -6,6 +6,15 @@ This document brings together practical dialogues based on the **Expression Mapp
 # Never mind! (Idea: Never mind! / Forget it!)
 ---
 
+``` mermaid
+mindmap
+  root((Never mind!))
+        Beat off
+        Look it up
+        Take off
+          I’m off to
+```
+
 ### The phrasal verb `Beat off` means to force someone or something to go away or to fight off an attack, similar to pushing back or overcoming an opponent.
 
 Common Meanings and Uses

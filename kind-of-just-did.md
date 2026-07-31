@@ -5,6 +5,15 @@ This document brings together practical dialogues based on the **Expression Mapp
 # Kind of just did (Idea: Kind of just did)
 ---
 
+``` mermaid
+mindmap
+  root((Kind of just did))
+      Look it up
+      Slow down
+      Sort out
+       Look it up
+```
+
 ### Chain 2B: `Slow down` → `Kind of just did`
 > **Idea:** Asking to slow down and having the other person answer that they kind of just did.
 
@@ -39,22 +48,6 @@ This document brings together practical dialogues based on the **Expression Mapp
 
 ---
 
-### Chain 2B: `Slow down` → `Kind of just did`
-> **Idea:** Asking to slow down and having the other person answer that they kind of just did.
-
-* **Option 1: In city traffic**
-
-  — Hey, you need to slow down a bit; the speed limit changes near this school zone.  
-
-  — I kind of just did! Check the speedometer, I’m driving under forty now.
-
-* **Option 2: Working from home routine**
-
-  — Can you slow down and take a breather? You’ve been working non-stop all morning.  
-
-  — I kind of just did while you were outside watering the plants, but thanks for caring.
-
----
 
 ### Chain 4C: `Sort out` → `Look it up`
 > **Phrase:** `Sort out` → `Look it up` → `Kind of just did`  

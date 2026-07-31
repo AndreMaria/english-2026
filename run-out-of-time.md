@@ -9,9 +9,11 @@ This document brings together practical dialogues based on the **Expression Mapp
 ``` mermaid
 mindmap
   root((Run out of time))
-      Take off
-        Kickoff
-        I'm off to
+    Limping
+    Let’s get on
+    Kickoff
+      Let’s get on
+    Take off
 ```
 
 
@@ -66,9 +68,6 @@ mindmap
 
   — Agreed. We’ll run out of time before dinner if we keep reading the instructions over and over.
 
----
-
-## 3. Expression: `Run out of time` (Run out of time)
 
 ### Chain 3A: `Run out of time` → `Take off`
 > **Phrase:** `Run out of time` → `Take off` → `Kickoff`  

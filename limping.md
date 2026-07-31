@@ -9,9 +9,10 @@ This document brings together practical dialogues based on the **Expression Mapp
 ``` mermaid
 mindmap
   root((Limping))
-        Run out of time
-        Slow down
-        Sort of
+      Trip over
+      Run out of time
+      Slow down
+      Sort of
 ```
 
 Trip over (Idea: To stumble on something / make a mistake)

@@ -15,6 +15,7 @@ mindmap
       Let's get on
         Run out of time
         Sort out
+      Take off
 ```
 
 ## 2. Expression: `Kickoff` (Start off / Begin)
