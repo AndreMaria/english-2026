@@ -22,6 +22,16 @@ This document brings together practical dialogues based on the **Expression Mapp
 
 ---
 
+Trip over (Idea: To stumble on something / make a mistake)
+
+* slip: You lose balance on a wet surface.
+
+* trip: You hit your foot on something and lose balance
+
+* stumble: You lose balance while walking 
+
+* tumble: You fall and roll over
+
 ### Chain 1E: `Trip over` → `Itch`
 > **Idea:** Stumble/make a mistake and get an itch/urge to change something.
 

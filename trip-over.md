@@ -6,14 +6,26 @@ This document brings together practical dialogues based on the **Expression Mapp
 # Trip over (Idea: To stumble on something / make a mistake)
 ---
 
-slip: You lose balance on a wet surface.
+* slip: You lose balance on a wet surface.
 
-trip: You hit your foot on something and lose balance
+* trip: You hit your foot on something and lose balance
 
-stumble: You lose balance while walking 
+* stumble: You lose balance while walking 
 
-tumble: You fall and roll over
+* tumble: You fall and roll over
 
+
+``` mermaid
+mindmap
+  root((Trip over))
+    Limping
+      Run out of time
+      Slow down
+      Sort of
+    Itch
+      I'm off to
+      Slow down
+```
 
 ## 1. Expression: `Trip over` (Stumble / Mess up)
 

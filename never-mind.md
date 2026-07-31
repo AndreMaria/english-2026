@@ -14,6 +14,7 @@ Common Meanings and Uses
 * Push back competition: To hold off or defeat competitors in a game, business, or race.
 * Overcome difficulty: To successfully deal with a hard problem or challenge.Examples in Sentences
 
+---
 
 ## Chain 7A: `Beat off` → `Never mind!`
 > **Phrase:** `Beat off` → `Never mind!` → `Take off`  

@@ -6,7 +6,15 @@ This document brings together practical dialogues based on the **Expression Mapp
 # Limping (Idea: Limping)
 ---
 
-## 1. Expression: `Trip over` (Stumble / Mess up)
+Trip over (Idea: To stumble on something / make a mistake)
+
+* slip: You lose balance on a wet surface.
+
+* trip: You hit your foot on something and lose balance
+
+* stumble: You lose balance while walking 
+
+* tumble: You fall and roll over
 
 ### Chain 1A: `Trip over` → `Limping`
 > **Idea:** Stumble over something or mess up in daily routine and end up limping/impaired.
@@ -58,6 +66,8 @@ This document brings together practical dialogues based on the **Expression Mapp
   — My knee is killing me today, so please slow down so I can keep up with you.
 
 ---
+
+"Sort of" means somewhat, approximately, or a little bit. People use it when they want to describe something in a way that is not exact or 100% precise
 
 ### Chain 1D: `Limping` → `Sort of`
 > **Idea:** Moderately limping / "Sort of".

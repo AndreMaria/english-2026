@@ -6,6 +6,15 @@ This document brings together practical dialogues based on the **Expression Mapp
 # Run out of time (Idea: End up running out of time)
 ---
 
+``` mermaid
+mindmap
+  root((Run out of time))
+      Take off
+        Kickoff
+        I'm off to
+```
+
+
 ### Chain 1B: `Limping` → `Run out of time`
 > **Idea:** Being in a slow/impaired pace and ending up running out of time.
 

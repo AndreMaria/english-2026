@@ -6,6 +6,7 @@ This document brings together practical dialogues based on the **Expression Mapp
 # Look it up
 ---
 
+"Sort of" means somewhat, approximately, or a little bit. People use it when they want to describe something in a way that is not exact or 100% precise
 
 ### Chain 4A: `Sort of` → `Sort out`
 > **Phrase:** `Sort of` → `Sort out` → `Look it up`  
