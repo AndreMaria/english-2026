@@ -1,10 +1,10 @@
-# Expression Mapping & Associative Chains: Practical Dialogues
+
+# Trip over (Idea: To stumble on something / make a mistake)
+
+### Expression Mapping & Associative Chains: Practical Dialogues
 
 This document brings together practical dialogues based on the **Expression Mapping and Associative Chains**, contextualized in the **daily lives of two adults in a mid-sized city** (intermediate level).
 
----
-# Trip over (Idea: To stumble on something / make a mistake)
----
 
 * slip: You lose balance on a wet surface.
 

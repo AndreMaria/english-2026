@@ -1,10 +1,10 @@
-# Expression Mapping & Associative Chains: Practical Dialogues
+
+# Limping (Idea: Limping)
+
+### Expression Mapping & Associative Chains: Practical Dialogues
 
 This document brings together practical dialogues based on the **Expression Mapping and Associative Chains**, contextualized in the **daily lives of two adults in a mid-sized city** (intermediate level).
 
----
-# Limping (Idea: Limping)
----
 
 ``` mermaid
 mindmap

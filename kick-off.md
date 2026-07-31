@@ -1,10 +1,10 @@
-# Expression Mapping & Associative Chains: Practical Dialogues
+
+# Kickoff (Idea: Kick off / Start things off)
+
+### Expression Mapping & Associative Chains: Practical Dialogues
 
 This document brings together practical dialogues based on the **Expression Mapping and Associative Chains**, contextualized in the **daily lives of two adults in a mid-sized city** (intermediate level).
 
----
-# Kickoff (Idea: Kick off / Start things off)
----
 
 ``` mermaid
 mindmap

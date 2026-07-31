@@ -1,10 +1,10 @@
-# Expression Mapping & Associative Chains: Practical Dialogues
+
+# Look it up
+
+### Expression Mapping & Associative Chains: Practical Dialogues
 
 This document brings together practical dialogues based on the **Expression Mapping and Associative Chains**, contextualized in the **daily lives of two adults in a mid-sized city** (intermediate level).
 
----
-# Look it up
----
 
 "Sort of" means somewhat, approximately, or a little bit. People use it when they want to describe something in a way that is not exact or 100% precise
 

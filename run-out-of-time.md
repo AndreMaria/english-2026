@@ -1,10 +1,10 @@
-# Expression Mapping & Associative Chains: Practical Dialogues
+
+# Run out of time (Idea: End up running out of time)
+
+### Expression Mapping & Associative Chains: Practical Dialogues
 
 This document brings together practical dialogues based on the **Expression Mapping and Associative Chains**, contextualized in the **daily lives of two adults in a mid-sized city** (intermediate level).
 
----
-# Run out of time (Idea: End up running out of time)
----
 
 ``` mermaid
 mindmap

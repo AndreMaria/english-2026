@@ -1,12 +1,11 @@
-# Expression Mapping & Associative Chains: Practical Dialogues
 
-This document brings together practical dialogues based on the **Expression Mapping and Associative Chains**, contextualized in the **daily lives of two adults in a mid-sized city** (intermediate level).
-
----
 # I’m off to (Idea: Leaving for / Heading out to)
 
 ### "I'm off to" means you are leaving to go somewhere, while "give up" means you stop trying or quit a habit.
 
+### Expression Mapping & Associative Chains: Practical Dialogues
+
+This document brings together practical dialogues based on the **Expression Mapping and Associative Chains**, contextualized in the **daily lives of two adults in a mid-sized city** (intermediate level).
 
 ``` mermaid
 mindmap

@@ -1,9 +1,10 @@
-# Expression Mapping & Associative Chains: Practical Dialogues
+
+# Kind of just did (Idea: Kind of just did)
+
+### Expression Mapping & Associative Chains: Practical Dialogues
 
 This document brings together practical dialogues based on the **Expression Mapping and Associative Chains**, contextualized in the **daily lives of two adults in a mid-sized city** (intermediate level).
----
-# Kind of just did (Idea: Kind of just did)
----
+
 
 ``` mermaid
 mindmap

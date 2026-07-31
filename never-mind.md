@@ -1,10 +1,9 @@
-# Expression Mapping & Associative Chains: Practical Dialogues
+
+# Never mind! (Idea: Never mind! / Forget it!)
+
+### Expression Mapping & Associative Chains: Practical Dialogues
 
 This document brings together practical dialogues based on the **Expression Mapping and Associative Chains**, contextualized in the **daily lives of two adults in a mid-sized city** (intermediate level).
-
----
-# Never mind! (Idea: Never mind! / Forget it!)
----
 
 ``` mermaid
 mindmap
