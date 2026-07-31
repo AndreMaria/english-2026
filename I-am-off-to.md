@@ -9,7 +9,8 @@ This document brings together practical dialogues based on the **Expression Mapp
 
 
 ``` mermaid
-mindmap
+flowchart LR
+  %% Nó Central
   root((I'm off to))
       Itch[Itch]
       Take-off[Take off]
