@@ -11,13 +11,13 @@ This document brings together practical dialogues based on the **Expression Mapp
 ``` mermaid
 mindmap
   root((I'm off to))
-      Itch
-      Take off
-      Never mind!
-      Let's get on
+      Itch[Itch]
+      Take-off[Take off]
+      Never-mind[Never mind!]
+      Lets-get-on[Let's get on]
         Beat off
-        Run out of time
-        Sort out
+        Run-out-of-time[Run out of time]
+        Sort-out[Sort out]
 
     %% Links para arquivos na mesma pasta
     click Run-out-of-time "https://github.com/AndreMaria/english-2026/blob/main/run-out-time.md" "Abrir explicações de Run out of time" _self
