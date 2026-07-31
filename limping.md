@@ -3,6 +3,8 @@
 This document brings together practical dialogues based on the **Expression Mapping and Associative Chains**, contextualized in the **daily lives of two adults in a mid-sized city** (intermediate level).
 
 ---
+# Limping (Idea: Limping)
+---
 
 ## 1. Expression: `Trip over` (Stumble / Mess up)
 

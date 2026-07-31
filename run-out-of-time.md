@@ -3,6 +3,8 @@
 This document brings together practical dialogues based on the **Expression Mapping and Associative Chains**, contextualized in the **daily lives of two adults in a mid-sized city** (intermediate level).
 
 ---
+# Run out of time (Idea: End up running out of time)
+---
 
 ### Chain 1B: `Limping` → `Run out of time`
 > **Idea:** Being in a slow/impaired pace and ending up running out of time.

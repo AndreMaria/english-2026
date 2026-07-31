@@ -3,6 +3,8 @@
 This document brings together practical dialogues based on the **Expression Mapping and Associative Chains**, contextualized in the **daily lives of two adults in a mid-sized city** (intermediate level).
 
 ---
+# Kickoff (Idea: Kick off / Start things off)
+---
 
 ## 2. Expression: `Kickoff` (Start off / Begin)
 

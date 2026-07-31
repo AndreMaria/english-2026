@@ -3,7 +3,9 @@
 This document brings together practical dialogues based on the **Expression Mapping and Associative Chains**, contextualized in the **daily lives of two adults in a mid-sized city** (intermediate level).
 
 ---
+# I’m off to (Idea: Leaving for / Heading out to)
 
+---
 ### Chain 1F: `Itch` → `I’m off to`
 > **Idea:** Urge to do something and leaving right away to get it done.
 

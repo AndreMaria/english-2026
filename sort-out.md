@@ -3,6 +3,8 @@
 This document brings together practical dialogues based on the **Expression Mapping and Associative Chains**, contextualized in the **daily lives of two adults in a mid-sized city** (intermediate level).
 
 ---
+# Sort out (Idea: Resolve / Organize)
+---
 
 ### Chain 2F: `Let’s get on` → `Sort out`
 > **Idea:** Start working and resolve/organize things.

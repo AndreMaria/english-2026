@@ -3,6 +3,8 @@
 This document brings together practical dialogues based on the **Expression Mapping and Associative Chains**, contextualized in the **daily lives of two adults in a mid-sized city** (intermediate level).
 
 ---
+# Slow down (Idea: Slow down / Reduce speed)
+---
 
 ### Chain 1C: `Limping` → `Slow down`
 > **Idea:** Limping and needing to slow down the pace.

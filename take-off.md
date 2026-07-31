@@ -3,6 +3,9 @@
 This document brings together practical dialogues based on the **Expression Mapping and Associative Chains**, contextualized in the **daily lives of two adults in a mid-sized city** (intermediate level).
 
 ---
+# Take off (Idea: Leave quickly / Take off)
+---
+
 ### Chain 3A: `Run out of time` → `Take off`
 > **Phrase:** `Run out of time` → `Take off` → `Kickoff`  
 > **Idea:** End up running out of time, leave quickly, and kick off another commitment.

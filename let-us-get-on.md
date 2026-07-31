@@ -3,6 +3,8 @@
 This document brings together practical dialogues based on the **Expression Mapping and Associative Chains**, contextualized in the **daily lives of two adults in a mid-sized city** (intermediate level).
 
 ---
+# Let’s get on (Idea: Get on with it / Get to work)
+---
 
 ### Chain 2D: `Kickoff` → `Let’s get on`
 > **Phrase:** `Kickoff` → `Let’s get on` → `Run out of time`  

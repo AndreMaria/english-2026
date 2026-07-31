@@ -78,7 +78,7 @@ flowchart LR
     click Sort-of "https://github.com/AndreMaria/english-2026/blob/main/sort-of.md" "Abrir explicações de Sort of" _self
     click Sort-out "https://github.com/AndreMaria/english-2026/blob/main/sort-out.md" "Abrir explicações de Sort out" _self
     click Itch "https://github.com/AndreMaria/english-2026/blob/main/itch.md" "Abrir explicações de Itch" _self
-    click Im-off-to "https://github.com/AndreMaria/english-2026/blob/main/i-am-off-to.md" "Abrir explicações de I’m off to" _self
+    click Im-off-to "https://github.com/AndreMaria/english-2026/blob/main/I-am-off-to.md" "Abrir explicações de I’m off to" _self
     click Lets-get-on "https://github.com/AndreMaria/english-2026/blob/main/let-us-get-on.md" "Abrir explicações de let’s get on" _self
     click Never-mind "https://github.com/AndreMaria/english-2026/blob/main/never-mind.md" "Abrir explicações de Never mind" _self
     click Look-it-up "https://github.com/AndreMaria/english-2026/blob/main/look-it-up.md" "Abrir explicações de look it up" _self
