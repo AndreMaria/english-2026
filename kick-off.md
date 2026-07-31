@@ -40,25 +40,6 @@ This document brings together practical dialogues based on the **Expression Mapp
 
 ---
 
-## 3. Expression: `Run out of time` (Run out of time)
-
-### Chain 3A: `Run out of time` → `Take off`
-> **Phrase:** `Run out of time` → `Take off` → `Kickoff`  
-> **Idea:** End up running out of time, leave quickly, and kick off another commitment.
-
-* **Option 1: In a rush for an appointment**
-
-  — We’re going to run out of time if we stay here chatting in the driveway!  
-
-  — You’re right, I need to take off now if I want to be present for the match kickoff at six.
-
-* **Option 2: Leaving the office**
-
-  — I always run out of time on Friday afternoons with these late calls.  
-
-  — Same here! Let’s take off right now so we don't miss the kickoff of the concert downtown.
-
----
 
 ### Chain 3B: `Take off` → `Kickoff`
 > **Idea:** Leave quickly to start something off.
