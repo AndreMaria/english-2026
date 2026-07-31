@@ -22,3 +22,20 @@ This document brings together practical dialogues based on the **Expression Mapp
   — Ouch! I saw you limping near the bus stop and wondered what happened to your leg.
 
 ---
+
+### Chain 1E: `Trip over` → `Itch`
+> **Idea:** Stumble/make a mistake and get an itch/urge to change something.
+
+* **Option 1: Caution with home renovation/decor**
+
+  — I almost tripped over the new rug in the hallway twice this morning.  
+
+  — I have an itch to rearrange the furniture in that room anyway, so let’s move it today.
+
+* **Option 2: Neighborhood walk**
+
+  — Watch out! You might trip over those loose tree roots on the sidewalk.  
+
+  — Thanks! Every time I walk past this old trail, I get an itch to go hiking in the hills.
+
+---

@@ -105,7 +105,7 @@ flowchart LR
 
     %% Links para arquivos na mesma pasta
     click Trip-over "https://github.com/AndreMaria/english-2026/blob/main/trip-over.md" "Abrir explicações de Trip over" _self
-    click Kickoff "kickoff.md" "Abrir explicações de Kickoff" _self
+    click Kickoff "https://github.com/AndreMaria/english-2026/blob/main/kick-off.md" "Abrir explicações de Kickoff" _self
     click Run-out-of-time "run-out-of-time.md" "Abrir explicações de Run out of time" _self
 ```
 
